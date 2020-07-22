@@ -1,12 +1,12 @@
 public class a {
 
     public static void main(String[] args) {
-//        System.out.println("helloworld");
-//        System.out.println(123);
-//        System.out.println(false);
-//        System.out.println(true);
-//        System.out.println(0.1278);
-//        System.out.println('A');
+       System.out.println("helloworld");
+       System.out.println(123);
+       System.out.println(false);
+       System.out.println(true);
+       System.out.println(0.1278);
+       System.out.println('A');
 
         //自动装箱和自动拆箱
          int a =9 ;

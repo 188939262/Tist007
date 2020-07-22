@@ -1,3 +1,5 @@
+package main.Test007;
+
 public class yidaoyibaidehe {
     public static void main(String[] args) {
         //int sum = xiangjia();

@@ -1,3 +1,5 @@
+package main.Test007;
+
 public class DiaoYong2 {
     public static void main(String[] args) {
         //调用compare，传递两个整数
